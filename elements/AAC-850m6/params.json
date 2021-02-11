@@ -1,0 +1,151 @@
+{
+    "add_hover_pressed": true,
+    "add_is_visible": true,
+    "autobinding_value": "text",
+    "category": "visual elements",
+    "default_dim": {
+        "height": 40,
+        "width": 40
+    },
+    "display": "Feather Icon",
+    "edit_mode_image": "//s3.amazonaws.com/appforest_uf/f1553901726628x782975194285920300/feather.svg",
+    "events": {
+        "AAM": {
+            "caption": "is clicked",
+            "name": "onClick"
+        }
+    },
+    "fields": {
+        "AAD": {
+            "caption": "Type",
+            "default_val": "heart",
+            "doc": "View list of icons at feathericons.com",
+            "editor": "Dropdown",
+            "name": "type",
+            "options": "activity,airplay,alert-circle,alert-octagon,alert-triangle,align-center,align-justify,align-left,align-right,anchor,aperture,archive,arrow-down-circle,arrow-down-left,arrow-down-right,arrow-down,arrow-left-circle,arrow-left,arrow-right-circle,arrow-right,arrow-up-circle,arrow-up-left,arrow-up-right,arrow-up,at-sign,award,bar-chart-2,bar-chart,battery-charging,battery,bell-off,bell,bluetooth,bold,book-open,book,bookmark,box,briefcase,calendar,camera-off,camera,cast,check-circle,check-square,check,chevron-down,chevron-left,chevron-right,chevron-up,chevrons-down,chevrons-left,chevrons-right,chevrons-up,chrome,circle,clipboard,clock,cloud-drizzle,cloud-lightning,cloud-off,cloud-rain,cloud-snow,cloud,code,codepen,codesandbox,coffee,columns,command,compass,copy,corner-down-left,corner-down-right,corner-left-down,corner-left-up,corner-right-down,corner-right-up,corner-up-left,corner-up-right,cpu,credit-card,crop,crosshair,database,delete,disc,dollar-sign,download-cloud,download,droplet,edit-2,edit-3,edit,external-link,eye-off,eye,facebook,fast-forward,feather,figma,file-minus,file-plus,file-text,file,film,filter,flag,folder-minus,folder-plus,folder,framer,frown,gift,git-branch,git-commit,git-merge,git-pull-request,github,gitlab,globe,grid,hard-drive,hash,headphones,heart,help-circle,hexagon,home,image,inbox,info,instagram,italic,key,layers,layout,life-buoy,link-2,link,linkedin,list,loader,lock,log-in,log-out,mail,map-pin,map,maximize-2,maximize,meh,menu,message-circle,message-square,mic-off,mic,minimize-2,minimize,minus-circle,minus-square,minus,monitor,moon,more-horizontal,more-vertical,mouse-pointer,move,music,navigation-2,navigation,octagon,package,paperclip,pause-circle,pause,pen-tool,percent,phone-call,phone-forwarded,phone-incoming,phone-missed,phone-off,phone-outgoing,phone,pie-chart,play-circle,play,plus-circle,plus-square,plus,pocket,power,printer,radio,refresh-ccw,refresh-cw,repeat,rewind,rotate-ccw,rotate-cw,rss,save,scissors,search,send,server,settings,share-2,share,shield-off,shield,shopping-bag,shopping-cart,shuffle,sidebar,skip-back,skip-forward,slack,slash,sliders,smartphone,smile,speaker,square,star,stop-circle,sun,sunrise,sunset,tablet,tag,target,terminal,thermometer,thumbs-down,thumbs-up,toggle-left,toggle-right,tool,trash-2,trash,trello,trending-down,trending-up,triangle,truck,tv,twitch,twitter,type,umbrella,underline,unlock,upload-cloud,upload,user-check,user-minus,user-plus,user-x,user,users,video-off,video,voicemail,volume-1,volume-2,volume-x,volume,watch,wifi-off,wifi,wind,x-circle,x-octagon,x-square,x,youtube,zap-off,zap,zoom-in,zoom-out",
+            "rank": 0
+        },
+        "AAE": {
+            "caption": "Icon color",
+            "default_val": "rgba(51, 51, 51, 1)",
+            "doc": "",
+            "editor": "Color",
+            "in_style": true,
+            "name": "color",
+            "rank": 2
+        },
+        "AAF": {
+            "caption": "Stroke width (dynamic)",
+            "doc": "Overrides the standard \"Stroke width\" field",
+            "editor": "DynamicValue",
+            "in_style": true,
+            "name": "strokeWidthDynamic",
+            "optional": true,
+            "rank": 7,
+            "value": "number"
+        },
+        "AAI": {
+            "caption": "Fill color",
+            "default_val": "rgba(255, 255, 255, 0.01)",
+            "editor": "Color",
+            "in_style": true,
+            "name": "fillColor",
+            "rank": 5
+        },
+        "AAJ": {
+            "caption": "Include fill color? (dynamic)",
+            "default_val": false,
+            "doc": "Overrides the standard \"Include fill color?\" field",
+            "editor": "DynamicValue",
+            "in_style": true,
+            "name": "includeFillDynamic",
+            "optional": true,
+            "rank": 4,
+            "value": "boolean"
+        },
+        "AAK": {
+            "caption": "Stroke line-cap",
+            "default_val": "round",
+            "doc": "",
+            "editor": "Dropdown",
+            "in_style": true,
+            "name": "strokeLineCap",
+            "options": "round,square",
+            "rank": 8
+        },
+        "AAL": {
+            "caption": "Stroke line-join",
+            "default_val": "round",
+            "doc": "",
+            "editor": "Dropdown",
+            "in_style": true,
+            "name": "strokeLineJoin",
+            "options": "round,square",
+            "rank": 10
+        },
+        "AAP": {
+            "caption": "Type (dynamic)",
+            "doc": "Overrides the standard \"Type\" field",
+            "editor": "DynamicValue",
+            "name": "typeDynamic",
+            "optional": true,
+            "rank": 1,
+            "value": "text"
+        },
+        "AAQ": {
+            "caption": "Stroke line-cap (dynamic)",
+            "doc": "Overrides the standard \"Stroke line-cap\" field",
+            "editor": "DynamicValue",
+            "name": "strokeLineCapDynamic",
+            "optional": true,
+            "rank": 9,
+            "value": "text"
+        },
+        "AAR": {
+            "caption": "Stroke line-join (dynamic)",
+            "doc": "Overrides the standard \"Stroke line-join\" field",
+            "editor": "DynamicValue",
+            "name": "strokeLineJoinDynamic",
+            "optional": true,
+            "rank": 11,
+            "value": "text"
+        },
+        "AAT": {
+            "caption": "Stroke width",
+            "default_val": 1,
+            "editor": "StaticNumber",
+            "in_style": true,
+            "name": "strokeWidth",
+            "rank": 6
+        },
+        "AAU": {
+            "caption": "Include fill color?",
+            "default_val": false,
+            "editor": "Checkbox",
+            "in_style": true,
+            "name": "includeFill",
+            "rank": 3
+        }
+    },
+    "icon": "ion-ios-information-outline",
+    "property_applications": {
+        "Background": true,
+        "Border": true,
+        "BoxShadow": true,
+        "Font": false,
+        "MinWidth": true,
+        "Padding": true,
+        "resizable": true
+    },
+    "states": {
+        "AAO": {
+            "caption": "Icon name",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n    \n    var type = properties.type;\n    var typeDynamic = properties.typeDynamic;\n    \n    if (feather.icons[typeDynamic]) {\n        type = typeDynamic;\n    }\n\t\n\treturn type;\n\n}"
+            },
+            "name": "iconName",
+            "value": "text"
+        }
+    },
+    "support_autobinding": false
+}

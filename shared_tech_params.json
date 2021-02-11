@@ -1,0 +1,11 @@
+{
+    "assets": {
+        "AAS": {
+            "name": "feather.svg",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1560539190480x747431396671820500/feather.svg"
+        }
+    },
+    "dependencies": {
+        "use_jquery": true
+    }
+}

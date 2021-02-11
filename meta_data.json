@@ -1,0 +1,12 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "Visual icon elements from the Feather Icons suite (https://feathericons.com/). Customize the color, fill color, and stroke width. Elements should maintain the standard Bubble element properties.",
+    "image": "//s3.amazonaws.com/appforest_uf/f1553901743536x225620409785235900/feather.svg",
+    "instructions": "",
+    "license": "open_source",
+    "link": "https://airdev.co/",
+    "name": "Feather Icons",
+    "plugin_instructions": "1) Add the \"Feather Icon\" element to your Bubble page\n2) Customize your new icon by specifying properties in the Bubble element editor"
+}
